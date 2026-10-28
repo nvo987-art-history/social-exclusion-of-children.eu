@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <foaf:Document
+    rdf:about="https://social-exclusion-of-children.eu/">
+
+    <dc:title>Social Exclusion of Children</dc:title>
+
+    <dc:description>
+      An international awareness campaign addressing social exclusion
+      among children and promoting belonging, participation and inclusion.
+    </dc:description>
+
+    <dc:language>en</dc:language>
+
+    <foaf:primaryTopic
+      rdf:resource="https://www.nvo987.us/#person" />
+
+  </foaf:Document>
+
+  <foaf:Person rdf:about="https://www.nvo987.us/#person">
+
+    <foaf:name>Nicholas Van-Orton</foaf:name>
+
+    <foaf:homepage
+      rdf:resource="https://www.nvo987.us/" />
+
+    <foaf:mbox
+      rdf:resource="mailto:nvo@nvo987.us" />
+
+    <foaf:workplaceHomepage
+      rdf:resource="https://nvo987.fr/" />
+
+    <foaf:topic_interest>
+      Children's social inclusion
+    </foaf:topic_interest>
+
+    <foaf:topic_interest>
+      Social exclusion and belonging
+    </foaf:topic_interest>
+
+  </foaf:Person>
+
+</rdf:RDF>

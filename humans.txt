@@ -1,0 +1,53 @@
+/* TEAM */
+
+Project: Social Exclusion of Children
+Author: Nicholas Van-Orton
+Role: Project author
+Contact: nvo@nvo987.us
+Website: https://www.nvo987.us/
+
+/* PROJECT */
+
+Name: Social Exclusion of Children
+Type: International awareness campaign
+Status: In preparation
+Planned launch: November 2027
+
+Mission:
+Raising awareness of social exclusion among children and promoting
+belonging, participation, inclusion, and dignity.
+
+Core values:
+Belonging
+Participation
+Inclusion
+Mutual respect
+Dignity
+Shared responsibility
+
+/* WEBSITE */
+
+URL: https://social-exclusion-of-children.eu/
+Language: English
+Standards: HTML5, CSS, JavaScript
+Structured data: Schema.org JSON-LD
+Accessibility: Reduced-motion preferences supported
+
+/* TECHNOLOGY */
+
+Fonts:
+DM Sans
+Newsreader
+
+Font provider:
+Google Fonts
+
+/* CONTACT */
+
+Email: nvo@nvo987.us
+Website: https://www.nvo987.us/
+Digital identity: https://identity.nvo987.us/
+
+/* COPYRIGHT */
+
+See LICENSE for the applicable copyright notice.

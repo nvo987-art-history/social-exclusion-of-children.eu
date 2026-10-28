@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <id>https://social-exclusion-of-children.eu/</id>
+
+  <title>Social Exclusion of Children</title>
+
+  <subtitle>
+    An international awareness campaign addressing social exclusion
+    among children and promoting belonging, participation and inclusion.
+  </subtitle>
+
+  <link
+    href="https://social-exclusion-of-children.eu/"
+    rel="alternate"
+    type="text/html"
+  />
+
+  <link
+    href="https://social-exclusion-of-children.eu/atom.xml"
+    rel="self"
+    type="application/atom+xml"
+  />
+
+  <updated>2026-10-28T00:00:00Z</updated>
+
+  <author>
+    <name>Nicholas Van-Orton</name>
+    <email>nvo@nvo987.us</email>
+    <uri>https://www.nvo987.us/</uri>
+  </author>
+
+  <rights>
+    Copyright 2026 Nicholas Van-Orton. All rights reserved unless
+    otherwise stated.
+  </rights>
+
+  <category term="children" />
+  <category term="social inclusion" />
+  <category term="social exclusion" />
+  <category term="belonging" />
+
+</feed>

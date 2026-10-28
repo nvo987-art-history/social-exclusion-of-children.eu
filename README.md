@@ -1,56 +1,85 @@
 # Social Exclusion of Children
 
-Official website: https://social-exclusion-of-children.eu/
+An international awareness campaign addressing social exclusion among
+children and promoting belonging, participation, inclusion, and dignity.
 
-## About
+## Website
 
-Social Exclusion of Children is an international awareness
-campaign addressing social exclusion among children within
-peer groups and communities.
+https://social-exclusion-of-children.eu/
 
-The initiative promotes awareness of rejection, isolation,
-social participation, belonging, mutual respect and inclusion.
+## Project information
 
-## Project status
+- Project name: Social Exclusion of Children
+- Author: Nicholas Van-Orton
+- Contact: nvo@nvo987.us
+- Planned launch: November 2027
+- Primary language: English
+- Website type: Public awareness campaign
 
-Status: In preparation
-Planned launch: November 2027
+## Mission
 
-## Core principles
+The campaign aims to make social exclusion among children more visible,
+encourage recognition of exclusionary behaviour, and promote social
+environments in which every child can participate with dignity.
+
+## Core themes
 
 - Recognising social exclusion
-- Strengthening inclusion and belonging
-- Promoting meaningful participation
-- Encouraging shared responsibility
-- Respecting the dignity of every child
+- Strengthening inclusion
+- Belonging and participation
+- Mutual respect and dignity
+- Shared responsibility among peers, adults, and communities
 
-## Website resources
+## Website structure
 
-- `robots.txt` — crawler access rules
-- `sitemap.xml` — canonical website URLs
-- `llms.txt` — information for AI assistants
-- `ai.txt` — additional AI-oriented website information
-- `atom.xml` — Atom feed
-- `rss.xml` — RSS 2.0 feed
-- `foaf.xml` — FOAF/RDF project description
-- `humans.txt` — website credits
-- `security.txt` — security reporting information
+The homepage presents the campaign concept, its approach, its guiding
+principles, the planned launch date, and contact information.
+
+## Technical information
+
+The website uses semantic HTML, CSS, and JavaScript.
+
+The page includes:
+- Responsive layout
+- Search engine metadata
+- Open Graph metadata
+- Twitter/X card metadata
+- Schema.org JSON-LD structured data
+- Reduced-motion accessibility support
+- A canonical homepage URL
+
+## Public metadata files
+
+The following files may be published in the website root:
+
+- LICENSE
+- README.md
+- ai.txt
+- atom.xml
+- foaf.xml
+- humans.txt
+- llms.txt
+- robots.txt
+- rss.xml
+- security.txt
+- sitemap.xml
 
 ## Contact
 
 Nicholas Van-Orton
 Email: nvo@nvo987.us
+
 Website: https://www.nvo987.us/
+Digital identity: https://identity.nvo987.us/
+
+## Project status
+
+The campaign is in preparation.
+The planned launch is November 2027.
 
 ## Copyright
 
-Content is associated with the Social Exclusion of Children
-campaign. No specific open licence is asserted by this file.
+Unless otherwise stated, original website materials are subject to
+applicable copyright laws and the terms specified in LICENSE.
 
-## Technical notes
-
-The website uses semantic HTML, responsive CSS, Google Fonts,
-structured metadata and JSON-LD.
-
-The planned launch date is not a claim that the campaign is
-already operational. 
+Third-party materials remain subject to their respective licenses.

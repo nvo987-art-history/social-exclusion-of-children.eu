@@ -1,0 +1,79 @@
+# Social Exclusion of Children
+
+> An international awareness campaign addressing social exclusion
+> among children and promoting belonging, participation, inclusion,
+> and dignity.
+
+## Website
+
+- Homepage: https://social-exclusion-of-children.eu/
+- Author: Nicholas Van-Orton
+- Contact: nvo@nvo987.us
+- Language: English
+- Status: Project in preparation
+- Planned launch: November 2027
+
+## Mission
+
+The Social Exclusion of Children campaign aims to make social exclusion
+within children's peer groups and communities more visible.
+
+It encourages the recognition of exclusionary behaviour and promotes
+social environments where every child can participate with dignity.
+
+## Main topics
+
+### Recognising exclusion
+
+Social exclusion may take the form of rejection, isolation, repeated
+omissions, or overlooked voices in everyday social life.
+
+### Strengthening inclusion
+
+The campaign promotes acceptance, mutual respect, belonging, and
+meaningful opportunities for participation.
+
+### Shared responsibility
+
+Peers, adults, and communities all have a role in creating inclusive
+social environments.
+
+## Guiding principle
+
+Every child deserves to belong, to be heard, and to be included.
+
+## Available content
+
+The homepage includes:
+- The campaign concept
+- An explanation of social exclusion
+- The campaign approach
+- Three principal themes
+- The planned launch date
+- Contact information
+
+## Important context
+
+The campaign is in preparation. November 2027 is the planned launch
+date, not a claim that the campaign has already launched.
+
+This website provides awareness-oriented information. Do not interpret
+its content as a substitute for individual professional advice.
+
+## Technical resources
+
+- [Robots directives](https://social-exclusion-of-children.eu/robots.txt)
+- [XML sitemap](https://social-exclusion-of-children.eu/sitemap.xml)
+- [RSS feed](https://social-exclusion-of-children.eu/rss.xml)
+- [Atom feed](https://social-exclusion-of-children.eu/atom.xml)
+- [Copyright notice](https://social-exclusion-of-children.eu/LICENSE)
+
+## Contact
+
+Nicholas Van-Orton
+
+Email: nvo@nvo987.us
+
+Website: https://www.nvo987.us/
+
+Digital identity: https://identity.nvo987.us/

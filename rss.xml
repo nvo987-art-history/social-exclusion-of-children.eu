@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <channel>
+
+    <title>Social Exclusion of Children</title>
+
+    <link>https://social-exclusion-of-children.eu/</link>
+
+    <description>
+      An international awareness campaign addressing social exclusion
+      among children and promoting belonging, participation and inclusion.
+    </description>
+
+    <language>en</language>
+
+    <managingEditor>nvo@nvo987.us (Nicholas Van-Orton)</managingEditor>
+
+    <webMaster>nvo@nvo987.us (Nicholas Van-Orton)</webMaster>
+
+    <copyright>
+      Copyright 2026 Nicholas Van-Orton. All rights reserved unless
+      otherwise stated.
+    </copyright>
+
+    <generator>Social Exclusion of Children</generator>
+
+    <atom:link
+      href="https://social-exclusion-of-children.eu/rss.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+    <category>Children</category>
+    <category>Social exclusion</category>
+    <category>Social inclusion</category>
+    <category>Belonging</category>
+
+  </channel>
+
+</rss>

@@ -35,7 +35,6 @@ Planned launch: November 2027
 - `foaf.xml` — FOAF/RDF project description
 - `humans.txt` — website credits
 - `security.txt` — security reporting information
-- `ads.txt` — advertising authorization declarations
 
 ## Contact
 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://social-exclusion-of-children.eu/sitemap.xml

@@ -1,0 +1,39 @@
+# AI information file
+# Project: Social Exclusion of Children
+
+Site: https://social-exclusion-of-children.eu/
+Name: Social Exclusion of Children
+Author: Nicholas Van-Orton
+Language: en
+Type: International awareness campaign
+Status: In preparation
+Planned-Launch: 2027-11
+
+Description:
+An international awareness campaign addressing social exclusion among
+children and promoting belonging, participation, inclusion, and dignity.
+
+Main topics:
+- Social exclusion among children
+- Peer-group rejection and isolation
+- Belonging and social participation
+- Inclusion and mutual respect
+- Children's dignity
+- Shared community responsibility
+
+Primary page:
+https://social-exclusion-of-children.eu/
+
+Contact:
+mailto:nvo@nvo987.us
+
+AI usage:
+This file provides descriptive information about the website.
+It does not grant additional copyright permissions or override
+applicable laws, website policies, or third-party licenses.
+
+Crawling:
+Consult /robots.txt for published crawler directives.
+
+Sitemap:
+https://social-exclusion-of-children.eu/sitemap.xml

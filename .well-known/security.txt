@@ -1,0 +1,4 @@
+Contact: mailto:nvo@nvo987.us
+Expires: 2027-10-28T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://social-exclusion-of-children.eu/.well-known/security.txt

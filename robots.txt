@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://social-exclusion-of-children.eu/sitemap.xml
+Sitemap: https://social-exclusion-of-children.eu/image-sitemap.xml
